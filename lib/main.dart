@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
     //     [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown]);
     return MaterialApp(
       title: '',
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: true,
       theme: ThemeData(
         primarySwatch: Colors.blue,
         platform: TargetPlatform.iOS,
