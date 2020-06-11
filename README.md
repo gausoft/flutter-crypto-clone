@@ -4,7 +4,7 @@ This project demonstrates how to create minimalistic app with flutter.
 
 ### Screenshots
 
-| Home        | Text encryption | Welcome Page |
+| Home        | Text encryption | Key exchange Screen |
 | ------------- |:-------------:| :-------------:|
 | <img src="screenshoots/home.png" /> | <img src="screenshoots/text_encryption.png" /> | <img src="screenshoots/key_exchange.png" /> |
 
