@@ -1,4 +1,4 @@
-# flutter_crypto_clone
+# Flutter Crypto App clone
 
 This project demonstrates how to create minimalistic app with flutter.
 
